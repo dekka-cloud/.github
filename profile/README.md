@@ -1,3 +1,12 @@
+<p align="center">
+<samp>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;________&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
+&nbsp;&nbsp;_____(&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;)&nbsp;&nbsp;&nbsp;&nbsp;____&nbsp;&nbsp;<br>
+&nbsp;(&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;)__(&nbsp;&nbsp;&nbsp;&nbsp;)&nbsp;<br>
+(_________________________)
+</samp>
+</p>
+
 ### A cloud that's close to home, starting with Ghana
 
 Dekka runs apps, databases and servers in Accra for the people building for Ghana, so your customers' data stays in the country and their requests don't have to travel to Europe and back. We share what we make along the way, and you're welcome to use it.
