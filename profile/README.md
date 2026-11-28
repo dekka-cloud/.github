@@ -1,10 +1,8 @@
 <p align="center">
-<samp>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;________&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
-&nbsp;&nbsp;_____(&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;)&nbsp;&nbsp;&nbsp;&nbsp;____&nbsp;&nbsp;<br>
-&nbsp;(&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;)__(&nbsp;&nbsp;&nbsp;&nbsp;)&nbsp;<br>
-(_________________________)
-</samp>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dekka-cloud/.github/main/profile/cloud-dark.svg">
+    <img alt="A cloud drawn in text characters" src="https://raw.githubusercontent.com/dekka-cloud/.github/main/profile/cloud-light.svg" width="560">
+  </picture>
 </p>
 
 ### A cloud that's close to home, starting with Ghana

@@ -1,0 +1,796 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 672 270" width="672" height="270" role="img" aria-label="A cloud drawn in text characters">
+<g font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="10" text-anchor="middle" fill="#f0f6fc">
+<text y="7.8" x="291 297" fill-opacity="0.48">..</text>
+<text y="17.8" x="255 261" fill-opacity="0.55">::</text>
+<text y="17.8" x="267" fill-opacity="0.61">-</text>
+<text y="17.8" x="273" fill-opacity="0.81">*</text>
+<text y="17.8" x="279" fill-opacity="0.94">%</text>
+<text y="17.8" x="285 291" fill-opacity="1.00">@@</text>
+<text y="17.8" x="297" fill-opacity="0.94">%</text>
+<text y="17.8" x="303" fill-opacity="0.87">#</text>
+<text y="17.8" x="309" fill-opacity="0.81">*</text>
+<text y="17.8" x="315" fill-opacity="0.74">+</text>
+<text y="17.8" x="321 327" fill-opacity="0.68">==</text>
+<text y="17.8" x="333" fill-opacity="0.55">:</text>
+<text y="27.8" x="231" fill-opacity="0.61">-</text>
+<text y="27.8" x="237" fill-opacity="0.74">+</text>
+<text y="27.8" x="243" fill-opacity="0.87">#</text>
+<text y="27.8" x="249 255 261 267 273 279 285 291" fill-opacity="1.00">@@@@@@@@</text>
+<text y="27.8" x="297 303 309" fill-opacity="0.94">%%%</text>
+<text y="27.8" x="315" fill-opacity="0.87">#</text>
+<text y="27.8" x="321 327 333" fill-opacity="0.94">%%%</text>
+<text y="27.8" x="339" fill-opacity="0.87">#</text>
+<text y="27.8" x="345" fill-opacity="0.81">*</text>
+<text y="27.8" x="351" fill-opacity="0.68">=</text>
+<text y="27.8" x="357" fill-opacity="0.55">:</text>
+<text y="37.8" x="219" fill-opacity="0.61">-</text>
+<text y="37.8" x="225" fill-opacity="0.94">%</text>
+<text y="37.8" x="231 237 243 249 255 261 267 273 279 285 291 297 303" fill-opacity="1.00">@@@@@@@@@@@@@</text>
+<text y="37.8" x="309" fill-opacity="0.94">%</text>
+<text y="37.8" x="315" fill-opacity="0.87">#</text>
+<text y="37.8" x="321" fill-opacity="0.94">%</text>
+<text y="37.8" x="327" fill-opacity="1.00">@</text>
+<text y="37.8" x="333" fill-opacity="0.94">%</text>
+<text y="37.8" x="339 345 351 357 363" fill-opacity="0.87">#####</text>
+<text y="37.8" x="369" fill-opacity="0.68">=</text>
+<text y="37.8" x="375" fill-opacity="0.48">.</text>
+<text y="47.8" x="207" fill-opacity="0.68">=</text>
+<text y="47.8" x="213" fill-opacity="0.94">%</text>
+<text y="47.8" x="219 225 231 237 243 249 255 261 267 273 279 285 291 297 303" fill-opacity="1.00">@@@@@@@@@@@@@@@</text>
+<text y="47.8" x="309 315 321 327 333 339" fill-opacity="0.94">%%%%%%</text>
+<text y="47.8" x="345 351 357 363" fill-opacity="0.87">####</text>
+<text y="47.8" x="369" fill-opacity="0.74">+</text>
+<text y="47.8" x="375" fill-opacity="0.68">=</text>
+<text y="47.8" x="381" fill-opacity="0.55">:</text>
+<text y="57.8" x="195" fill-opacity="0.48">.</text>
+<text y="57.8" x="201" fill-opacity="0.81">*</text>
+<text y="57.8" x="207" fill-opacity="0.94">%</text>
+<text y="57.8" x="213 219 225 231 237 243 249 255 261 267 273 279 285 291 297 303" fill-opacity="1.00">@@@@@@@@@@@@@@@@</text>
+<text y="57.8" x="309 315 321 327 333 339" fill-opacity="0.94">%%%%%%</text>
+<text y="57.8" x="345 351 357" fill-opacity="0.87">###</text>
+<text y="57.8" x="363" fill-opacity="0.81">*</text>
+<text y="57.8" x="369 375 381" fill-opacity="0.74">+++</text>
+<text y="57.8" x="387" fill-opacity="0.55">:</text>
+<text y="67.8" x="189" fill-opacity="0.48">.</text>
+<text y="67.8" x="195" fill-opacity="0.87">#</text>
+<text y="67.8" x="201" fill-opacity="0.94">%</text>
+<text y="67.8" x="207" fill-opacity="1.00">@</text>
+<text y="67.8" x="213 219" fill-opacity="0.94">%%</text>
+<text y="67.8" x="225 231 237 243 249 255 261 267 273 279 285 291 297" fill-opacity="1.00">@@@@@@@@@@@@@</text>
+<text y="67.8" x="303 309" fill-opacity="0.87">##</text>
+<text y="67.8" x="315 321 327" fill-opacity="0.94">%%%</text>
+<text y="67.8" x="333 339 345 351" fill-opacity="0.87">####</text>
+<text y="67.8" x="357" fill-opacity="0.81">*</text>
+<text y="67.8" x="363" fill-opacity="0.74">+</text>
+<text y="67.8" x="369" fill-opacity="0.87">#</text>
+<text y="67.8" x="375" fill-opacity="0.81">*</text>
+<text y="67.8" x="381 387" fill-opacity="0.74">++</text>
+<text y="67.8" x="393" fill-opacity="0.61">-</text>
+<text y="67.8" x="399 405" fill-opacity="0.55">::</text>
+<text y="67.8" x="411" fill-opacity="0.61">-</text>
+<text y="67.8" x="417" fill-opacity="0.74">+</text>
+<text y="67.8" x="423" fill-opacity="0.81">*</text>
+<text y="67.8" x="429 435" fill-opacity="0.87">##</text>
+<text y="67.8" x="441" fill-opacity="0.94">%</text>
+<text y="67.8" x="447 453" fill-opacity="0.87">##</text>
+<text y="67.8" x="459" fill-opacity="1.00">@</text>
+<text y="67.8" x="465" fill-opacity="0.94">%</text>
+<text y="67.8" x="471" fill-opacity="0.81">*</text>
+<text y="67.8" x="477" fill-opacity="0.68">=</text>
+<text y="67.8" x="483" fill-opacity="0.55">:</text>
+<text y="77.8" x="189" fill-opacity="0.87">#</text>
+<text y="77.8" x="195" fill-opacity="0.94">%</text>
+<text y="77.8" x="201 207 213 219" fill-opacity="1.00">@@@@</text>
+<text y="77.8" x="225 231 237" fill-opacity="0.94">%%%</text>
+<text y="77.8" x="243 249 255 261" fill-opacity="1.00">@@@@</text>
+<text y="77.8" x="267" fill-opacity="0.94">%</text>
+<text y="77.8" x="273 279 285" fill-opacity="1.00">@@@</text>
+<text y="77.8" x="291" fill-opacity="0.94">%</text>
+<text y="77.8" x="297 303 309" fill-opacity="0.87">###</text>
+<text y="77.8" x="315 321" fill-opacity="0.94">%%</text>
+<text y="77.8" x="327 333" fill-opacity="0.87">##</text>
+<text y="77.8" x="339 345" fill-opacity="0.94">%%</text>
+<text y="77.8" x="351" fill-opacity="0.87">#</text>
+<text y="77.8" x="357 363" fill-opacity="0.81">**</text>
+<text y="77.8" x="369" fill-opacity="0.94">%</text>
+<text y="77.8" x="375" fill-opacity="0.81">*</text>
+<text y="77.8" x="381" fill-opacity="0.68">=</text>
+<text y="77.8" x="387" fill-opacity="0.74">+</text>
+<text y="77.8" x="393" fill-opacity="0.87">#</text>
+<text y="77.8" x="399" fill-opacity="0.94">%</text>
+<text y="77.8" x="405 411 417 423 429 435 441 447 453" fill-opacity="1.00">@@@@@@@@@</text>
+<text y="77.8" x="459 465 471 477 483" fill-opacity="0.94">%%%%%</text>
+<text y="77.8" x="489" fill-opacity="0.81">*</text>
+<text y="77.8" x="495" fill-opacity="0.68">=</text>
+<text y="77.8" x="501" fill-opacity="0.48">.</text>
+<text y="87.8" x="147" fill-opacity="0.55">:</text>
+<text y="87.8" x="153" fill-opacity="0.68">=</text>
+<text y="87.8" x="159" fill-opacity="0.74">+</text>
+<text y="87.8" x="165" fill-opacity="0.81">*</text>
+<text y="87.8" x="171" fill-opacity="0.87">#</text>
+<text y="87.8" x="177" fill-opacity="0.94">%</text>
+<text y="87.8" x="183 189 195" fill-opacity="1.00">@@@</text>
+<text y="87.8" x="201 207" fill-opacity="0.94">%%</text>
+<text y="87.8" x="213 219 225 231" fill-opacity="1.00">@@@@</text>
+<text y="87.8" x="237 243 249" fill-opacity="0.94">%%%</text>
+<text y="87.8" x="255" fill-opacity="1.00">@</text>
+<text y="87.8" x="261 267" fill-opacity="0.94">%%</text>
+<text y="87.8" x="273 279" fill-opacity="1.00">@@</text>
+<text y="87.8" x="285" fill-opacity="0.94">%</text>
+<text y="87.8" x="291 297 303 309" fill-opacity="0.87">####</text>
+<text y="87.8" x="315" fill-opacity="1.00">@</text>
+<text y="87.8" x="321 327 333 339" fill-opacity="0.87">####</text>
+<text y="87.8" x="345" fill-opacity="0.94">%</text>
+<text y="87.8" x="351" fill-opacity="0.87">#</text>
+<text y="87.8" x="357 363 369" fill-opacity="0.81">***</text>
+<text y="87.8" x="375 381" fill-opacity="0.74">++</text>
+<text y="87.8" x="387" fill-opacity="0.81">*</text>
+<text y="87.8" x="393" fill-opacity="0.87">#</text>
+<text y="87.8" x="399 405 411 417 423 429 435 441 447 453" fill-opacity="1.00">@@@@@@@@@@</text>
+<text y="87.8" x="459 465 471 477 483" fill-opacity="0.94">%%%%%</text>
+<text y="87.8" x="489 495" fill-opacity="0.81">**</text>
+<text y="87.8" x="501" fill-opacity="0.74">+</text>
+<text y="87.8" x="507" fill-opacity="0.61">-</text>
+<text y="97.8" x="129" fill-opacity="0.61">-</text>
+<text y="97.8" x="135" fill-opacity="0.81">*</text>
+<text y="97.8" x="141" fill-opacity="0.94">%</text>
+<text y="97.8" x="147 153 159 165 171 177 183 189 195 201 207 213 219" fill-opacity="1.00">@@@@@@@@@@@@@</text>
+<text y="97.8" x="225 231 237 243" fill-opacity="0.94">%%%%</text>
+<text y="97.8" x="249 255" fill-opacity="0.87">##</text>
+<text y="97.8" x="261" fill-opacity="0.94">%</text>
+<text y="97.8" x="267 273" fill-opacity="1.00">@@</text>
+<text y="97.8" x="279" fill-opacity="0.94">%</text>
+<text y="97.8" x="285" fill-opacity="0.87">#</text>
+<text y="97.8" x="291 297 303 309" fill-opacity="0.94">%%%%</text>
+<text y="97.8" x="315" fill-opacity="0.87">#</text>
+<text y="97.8" x="321" fill-opacity="0.81">*</text>
+<text y="97.8" x="327 333 339 345" fill-opacity="0.87">####</text>
+<text y="97.8" x="351 357" fill-opacity="0.74">++</text>
+<text y="97.8" x="363" fill-opacity="0.81">*</text>
+<text y="97.8" x="369" fill-opacity="0.87">#</text>
+<text y="97.8" x="375 381" fill-opacity="0.74">++</text>
+<text y="97.8" x="387" fill-opacity="0.87">#</text>
+<text y="97.8" x="393" fill-opacity="0.94">%</text>
+<text y="97.8" x="399 405 411 417 423 429 435 441 447" fill-opacity="1.00">@@@@@@@@@</text>
+<text y="97.8" x="453 459 465 471" fill-opacity="0.94">%%%%</text>
+<text y="97.8" x="477 483" fill-opacity="0.87">##</text>
+<text y="97.8" x="489 495" fill-opacity="0.81">**</text>
+<text y="97.8" x="501 507 513" fill-opacity="0.74">+++</text>
+<text y="97.8" x="519" fill-opacity="0.48">.</text>
+<text y="107.8" x="117" fill-opacity="0.55">:</text>
+<text y="107.8" x="123" fill-opacity="0.87">#</text>
+<text y="107.8" x="129 135 141 147 153 159 165 171 177 183 189 195 201 207 213 219 225" fill-opacity="1.00">@@@@@@@@@@@@@@@@@</text>
+<text y="107.8" x="231" fill-opacity="0.94">%</text>
+<text y="107.8" x="237 243 249" fill-opacity="1.00">@@@</text>
+<text y="107.8" x="255" fill-opacity="0.94">%</text>
+<text y="107.8" x="261 267 273 279" fill-opacity="0.87">####</text>
+<text y="107.8" x="285" fill-opacity="0.94">%</text>
+<text y="107.8" x="291" fill-opacity="1.00">@</text>
+<text y="107.8" x="297" fill-opacity="0.94">%</text>
+<text y="107.8" x="303" fill-opacity="0.87">#</text>
+<text y="107.8" x="309" fill-opacity="0.81">*</text>
+<text y="107.8" x="315 321 327" fill-opacity="0.87">###</text>
+<text y="107.8" x="333 339" fill-opacity="0.94">%%</text>
+<text y="107.8" x="345 351" fill-opacity="0.81">**</text>
+<text y="107.8" x="357 363" fill-opacity="0.87">##</text>
+<text y="107.8" x="369" fill-opacity="0.81">*</text>
+<text y="107.8" x="375" fill-opacity="0.74">+</text>
+<text y="107.8" x="381 387 393" fill-opacity="0.87">###</text>
+<text y="107.8" x="399 405 411 417 423 429 435 441 447 453" fill-opacity="1.00">@@@@@@@@@@</text>
+<text y="107.8" x="459 465 471" fill-opacity="0.94">%%%</text>
+<text y="107.8" x="477" fill-opacity="0.87">#</text>
+<text y="107.8" x="483" fill-opacity="0.81">*</text>
+<text y="107.8" x="489 495" fill-opacity="0.87">##</text>
+<text y="107.8" x="501 507" fill-opacity="0.81">**</text>
+<text y="107.8" x="513" fill-opacity="0.74">+</text>
+<text y="107.8" x="519" fill-opacity="0.68">=</text>
+<text y="107.8" x="525" fill-opacity="0.48">.</text>
+<text y="117.8" x="111" fill-opacity="0.61">-</text>
+<text y="117.8" x="117" fill-opacity="0.94">%</text>
+<text y="117.8" x="123 129 135 141 147 153 159 165 171 177 183 189 195 201 207" fill-opacity="1.00">@@@@@@@@@@@@@@@</text>
+<text y="117.8" x="213" fill-opacity="0.94">%</text>
+<text y="117.8" x="219 225 231 237" fill-opacity="1.00">@@@@</text>
+<text y="117.8" x="243 249 255" fill-opacity="0.94">%%%</text>
+<text y="117.8" x="261 267" fill-opacity="0.87">##</text>
+<text y="117.8" x="273" fill-opacity="0.94">%</text>
+<text y="117.8" x="279 285 291" fill-opacity="0.87">###</text>
+<text y="117.8" x="297" fill-opacity="0.81">*</text>
+<text y="117.8" x="303" fill-opacity="0.87">#</text>
+<text y="117.8" x="309 315 321" fill-opacity="0.81">***</text>
+<text y="117.8" x="327" fill-opacity="0.87">#</text>
+<text y="117.8" x="333" fill-opacity="0.94">%</text>
+<text y="117.8" x="339 345 351" fill-opacity="0.87">###</text>
+<text y="117.8" x="357 363" fill-opacity="0.81">**</text>
+<text y="117.8" x="369" fill-opacity="0.74">+</text>
+<text y="117.8" x="375" fill-opacity="0.68">=</text>
+<text y="117.8" x="381" fill-opacity="0.81">*</text>
+<text y="117.8" x="387" fill-opacity="0.74">+</text>
+<text y="117.8" x="393" fill-opacity="0.87">#</text>
+<text y="117.8" x="399 405 411 417 423 429 435 441" fill-opacity="1.00">@@@@@@@@</text>
+<text y="117.8" x="447 453 459 465 471" fill-opacity="0.94">%%%%%</text>
+<text y="117.8" x="477 483 489 495" fill-opacity="0.81">****</text>
+<text y="117.8" x="501 507 513" fill-opacity="0.74">+++</text>
+<text y="117.8" x="519" fill-opacity="0.68">=</text>
+<text y="117.8" x="525" fill-opacity="0.61">-</text>
+<text y="127.8" x="105" fill-opacity="0.61">-</text>
+<text y="127.8" x="111" fill-opacity="0.94">%</text>
+<text y="127.8" x="117 123 129 135 141 147 153 159 165 171 177" fill-opacity="1.00">@@@@@@@@@@@</text>
+<text y="127.8" x="183" fill-opacity="0.94">%</text>
+<text y="127.8" x="189 195 201" fill-opacity="1.00">@@@</text>
+<text y="127.8" x="207 213" fill-opacity="0.94">%%</text>
+<text y="127.8" x="219 225 231 237" fill-opacity="0.87">####</text>
+<text y="127.8" x="243" fill-opacity="0.94">%</text>
+<text y="127.8" x="249" fill-opacity="1.00">@</text>
+<text y="127.8" x="255 261 267 273" fill-opacity="0.94">%%%%</text>
+<text y="127.8" x="279 285 291" fill-opacity="0.87">###</text>
+<text y="127.8" x="297 303 309" fill-opacity="0.81">***</text>
+<text y="127.8" x="315 321 327" fill-opacity="0.87">###</text>
+<text y="127.8" x="333 339" fill-opacity="0.81">**</text>
+<text y="127.8" x="345" fill-opacity="0.74">+</text>
+<text y="127.8" x="351 357" fill-opacity="0.68">==</text>
+<text y="127.8" x="363 369" fill-opacity="0.61">--</text>
+<text y="127.8" x="375 381" fill-opacity="0.74">++</text>
+<text y="127.8" x="387 393" fill-opacity="0.87">##</text>
+<text y="127.8" x="399" fill-opacity="0.94">%</text>
+<text y="127.8" x="405 411 417 423 429" fill-opacity="1.00">@@@@@</text>
+<text y="127.8" x="435 441 447 453" fill-opacity="0.94">%%%%</text>
+<text y="127.8" x="459" fill-opacity="0.87">#</text>
+<text y="127.8" x="465 471" fill-opacity="0.94">%%</text>
+<text y="127.8" x="477" fill-opacity="0.87">#</text>
+<text y="127.8" x="483 489 495 501 507" fill-opacity="0.81">*****</text>
+<text y="127.8" x="513" fill-opacity="0.74">+</text>
+<text y="127.8" x="519" fill-opacity="0.68">=</text>
+<text y="127.8" x="525" fill-opacity="0.61">-</text>
+<text y="127.8" x="531" fill-opacity="0.48">.</text>
+<text y="137.8" x="57" fill-opacity="0.48">.</text>
+<text y="137.8" x="63" fill-opacity="0.61">-</text>
+<text y="137.8" x="69" fill-opacity="0.74">+</text>
+<text y="137.8" x="75 81" fill-opacity="0.87">##</text>
+<text y="137.8" x="87 93" fill-opacity="0.94">%%</text>
+<text y="137.8" x="99" fill-opacity="0.87">#</text>
+<text y="137.8" x="105 111 117 123 129 135 141 147 153" fill-opacity="1.00">@@@@@@@@@</text>
+<text y="137.8" x="159 165 171 177 183 189 195 201 207" fill-opacity="0.94">%%%%%%%%%</text>
+<text y="137.8" x="213 219 225 231" fill-opacity="0.87">####</text>
+<text y="137.8" x="237 243 249 255 261 267" fill-opacity="0.94">%%%%%%</text>
+<text y="137.8" x="273 279 285 291 297 303" fill-opacity="0.87">######</text>
+<text y="137.8" x="309 315 321" fill-opacity="0.81">***</text>
+<text y="137.8" x="327 333" fill-opacity="0.74">++</text>
+<text y="137.8" x="339 345 351" fill-opacity="0.68">===</text>
+<text y="137.8" x="357 363 369" fill-opacity="0.74">+++</text>
+<text y="137.8" x="375 381 387 393" fill-opacity="0.81">****</text>
+<text y="137.8" x="399 405 411 417 423" fill-opacity="0.94">%%%%%</text>
+<text y="137.8" x="429 435" fill-opacity="0.87">##</text>
+<text y="137.8" x="441 447 453 459 465 471" fill-opacity="0.94">%%%%%%</text>
+<text y="137.8" x="477" fill-opacity="0.87">#</text>
+<text y="137.8" x="483 489" fill-opacity="0.81">**</text>
+<text y="137.8" x="495 501" fill-opacity="0.74">++</text>
+<text y="137.8" x="507 513" fill-opacity="0.68">==</text>
+<text y="137.8" x="519 525" fill-opacity="0.61">--</text>
+<text y="137.8" x="531" fill-opacity="0.55">:</text>
+<text y="137.8" x="567" fill-opacity="0.55">:</text>
+<text y="137.8" x="573 579 585" fill-opacity="0.61">---</text>
+<text y="137.8" x="591" fill-opacity="0.55">:</text>
+<text y="137.8" x="597" fill-opacity="0.48">.</text>
+<text y="147.8" x="45" fill-opacity="0.55">:</text>
+<text y="147.8" x="51" fill-opacity="0.87">#</text>
+<text y="147.8" x="57 63 69 75 81 87 93 99 105 111 117 123 129 135" fill-opacity="1.00">@@@@@@@@@@@@@@</text>
+<text y="147.8" x="141" fill-opacity="0.94">%</text>
+<text y="147.8" x="147" fill-opacity="0.87">#</text>
+<text y="147.8" x="153 159 165 171 177 183 189 195 201 207" fill-opacity="0.94">%%%%%%%%%%</text>
+<text y="147.8" x="213 219 225 231" fill-opacity="0.87">####</text>
+<text y="147.8" x="237" fill-opacity="0.94">%</text>
+<text y="147.8" x="243 249 255 261 267 273 279" fill-opacity="0.87">#######</text>
+<text y="147.8" x="285 291 297 303 309" fill-opacity="0.81">*****</text>
+<text y="147.8" x="315" fill-opacity="0.74">+</text>
+<text y="147.8" x="321" fill-opacity="0.68">=</text>
+<text y="147.8" x="327" fill-opacity="0.74">+</text>
+<text y="147.8" x="333" fill-opacity="0.81">*</text>
+<text y="147.8" x="339" fill-opacity="0.74">+</text>
+<text y="147.8" x="345" fill-opacity="0.68">=</text>
+<text y="147.8" x="351 357" fill-opacity="0.74">++</text>
+<text y="147.8" x="363" fill-opacity="0.81">*</text>
+<text y="147.8" x="369" fill-opacity="0.74">+</text>
+<text y="147.8" x="375" fill-opacity="0.81">*</text>
+<text y="147.8" x="381" fill-opacity="0.74">+</text>
+<text y="147.8" x="387" fill-opacity="0.81">*</text>
+<text y="147.8" x="393" fill-opacity="0.87">#</text>
+<text y="147.8" x="399 405 411 417" fill-opacity="0.94">%%%%</text>
+<text y="147.8" x="423 429" fill-opacity="0.87">##</text>
+<text y="147.8" x="435 441 447 453" fill-opacity="0.94">%%%%</text>
+<text y="147.8" x="459 465" fill-opacity="0.87">##</text>
+<text y="147.8" x="471" fill-opacity="0.94">%</text>
+<text y="147.8" x="477 483 489" fill-opacity="0.74">+++</text>
+<text y="147.8" x="495" fill-opacity="0.81">*</text>
+<text y="147.8" x="501 507" fill-opacity="0.74">++</text>
+<text y="147.8" x="513" fill-opacity="0.68">=</text>
+<text y="147.8" x="519" fill-opacity="0.61">-</text>
+<text y="147.8" x="525 531" fill-opacity="0.55">::</text>
+<text y="147.8" x="543" fill-opacity="0.55">:</text>
+<text y="147.8" x="549" fill-opacity="0.74">+</text>
+<text y="147.8" x="555" fill-opacity="0.94">%</text>
+<text y="147.8" x="561 567 573 579" fill-opacity="1.00">@@@@</text>
+<text y="147.8" x="585 591" fill-opacity="0.94">%%</text>
+<text y="147.8" x="597" fill-opacity="0.87">#</text>
+<text y="147.8" x="603" fill-opacity="0.81">*</text>
+<text y="147.8" x="609" fill-opacity="0.68">=</text>
+<text y="147.8" x="615" fill-opacity="0.55">:</text>
+<text y="157.8" x="39" fill-opacity="0.74">+</text>
+<text y="157.8" x="45 51 57 63 69 75 81 87 93 99 105 111 117 123" fill-opacity="1.00">@@@@@@@@@@@@@@</text>
+<text y="157.8" x="129 135" fill-opacity="0.94">%%</text>
+<text y="157.8" x="141" fill-opacity="0.87">#</text>
+<text y="157.8" x="147 153 159 165 171 177 183 189 195" fill-opacity="0.94">%%%%%%%%%</text>
+<text y="157.8" x="201 207 213 219 225 231 237" fill-opacity="0.87">#######</text>
+<text y="157.8" x="243 249" fill-opacity="0.81">**</text>
+<text y="157.8" x="255 261 267 273 279" fill-opacity="0.87">#####</text>
+<text y="157.8" x="285 291 297 303" fill-opacity="0.81">****</text>
+<text y="157.8" x="309 315" fill-opacity="0.68">==</text>
+<text y="157.8" x="321 327" fill-opacity="0.74">++</text>
+<text y="157.8" x="333 339" fill-opacity="0.68">==</text>
+<text y="157.8" x="345" fill-opacity="0.74">+</text>
+<text y="157.8" x="351 357" fill-opacity="0.81">**</text>
+<text y="157.8" x="363 369" fill-opacity="0.74">++</text>
+<text y="157.8" x="375" fill-opacity="0.68">=</text>
+<text y="157.8" x="381 387" fill-opacity="0.74">++</text>
+<text y="157.8" x="393" fill-opacity="0.87">#</text>
+<text y="157.8" x="399 405 411 417" fill-opacity="0.94">%%%%</text>
+<text y="157.8" x="423" fill-opacity="0.87">#</text>
+<text y="157.8" x="429 435" fill-opacity="0.94">%%</text>
+<text y="157.8" x="441 447 453" fill-opacity="0.87">###</text>
+<text y="157.8" x="459 465" fill-opacity="0.81">**</text>
+<text y="157.8" x="471 477 483" fill-opacity="0.74">+++</text>
+<text y="157.8" x="489" fill-opacity="0.81">*</text>
+<text y="157.8" x="495" fill-opacity="0.74">+</text>
+<text y="157.8" x="501" fill-opacity="0.68">=</text>
+<text y="157.8" x="507" fill-opacity="0.61">-</text>
+<text y="157.8" x="513" fill-opacity="0.68">=</text>
+<text y="157.8" x="519 525" fill-opacity="0.61">--</text>
+<text y="157.8" x="531" fill-opacity="0.87">#</text>
+<text y="157.8" x="537 543 549 555 561 567 573 579" fill-opacity="1.00">@@@@@@@@</text>
+<text y="157.8" x="585 591" fill-opacity="0.94">%%</text>
+<text y="157.8" x="597 603" fill-opacity="0.87">##</text>
+<text y="157.8" x="609" fill-opacity="0.94">%</text>
+<text y="157.8" x="615" fill-opacity="0.87">#</text>
+<text y="157.8" x="621" fill-opacity="0.74">+</text>
+<text y="157.8" x="627" fill-opacity="0.55">:</text>
+<text y="167.8" x="33" fill-opacity="0.81">*</text>
+<text y="167.8" x="39" fill-opacity="0.94">%</text>
+<text y="167.8" x="45 51 57 63 69 75 81 87" fill-opacity="1.00">@@@@@@@@</text>
+<text y="167.8" x="93 99" fill-opacity="0.94">%%</text>
+<text y="167.8" x="105 111 117" fill-opacity="1.00">@@@</text>
+<text y="167.8" x="123" fill-opacity="0.94">%</text>
+<text y="167.8" x="129" fill-opacity="0.87">#</text>
+<text y="167.8" x="135 141 147 153" fill-opacity="0.94">%%%%</text>
+<text y="167.8" x="159 165" fill-opacity="0.87">##</text>
+<text y="167.8" x="171 177" fill-opacity="0.94">%%</text>
+<text y="167.8" x="183 189" fill-opacity="0.87">##</text>
+<text y="167.8" x="195" fill-opacity="0.81">*</text>
+<text y="167.8" x="201" fill-opacity="0.87">#</text>
+<text y="167.8" x="207 213 219 225" fill-opacity="0.81">****</text>
+<text y="167.8" x="231 237" fill-opacity="0.74">++</text>
+<text y="167.8" x="243" fill-opacity="0.81">*</text>
+<text y="167.8" x="249" fill-opacity="0.74">+</text>
+<text y="167.8" x="255 261 267" fill-opacity="0.81">***</text>
+<text y="167.8" x="273 279" fill-opacity="0.87">##</text>
+<text y="167.8" x="285 291" fill-opacity="0.81">**</text>
+<text y="167.8" x="297" fill-opacity="0.74">+</text>
+<text y="167.8" x="303 309" fill-opacity="0.68">==</text>
+<text y="167.8" x="315 321 327" fill-opacity="0.74">+++</text>
+<text y="167.8" x="333 339" fill-opacity="0.68">==</text>
+<text y="167.8" x="345 351" fill-opacity="0.74">++</text>
+<text y="167.8" x="357" fill-opacity="0.68">=</text>
+<text y="167.8" x="363" fill-opacity="0.74">+</text>
+<text y="167.8" x="369 375" fill-opacity="0.68">==</text>
+<text y="167.8" x="381" fill-opacity="0.74">+</text>
+<text y="167.8" x="387" fill-opacity="0.87">#</text>
+<text y="167.8" x="393 399 405" fill-opacity="0.94">%%%</text>
+<text y="167.8" x="411 417 423" fill-opacity="0.87">###</text>
+<text y="167.8" x="429 435" fill-opacity="0.94">%%</text>
+<text y="167.8" x="441 447" fill-opacity="0.87">##</text>
+<text y="167.8" x="453 459" fill-opacity="0.81">**</text>
+<text y="167.8" x="465 471 477" fill-opacity="0.74">+++</text>
+<text y="167.8" x="483" fill-opacity="0.81">*</text>
+<text y="167.8" x="489 495" fill-opacity="0.74">++</text>
+<text y="167.8" x="501 507 513 519" fill-opacity="0.68">====</text>
+<text y="167.8" x="525" fill-opacity="0.81">*</text>
+<text y="167.8" x="531 537 543 549 555 561 567 573" fill-opacity="1.00">@@@@@@@@</text>
+<text y="167.8" x="579 585" fill-opacity="0.94">%%</text>
+<text y="167.8" x="591" fill-opacity="0.87">#</text>
+<text y="167.8" x="597 603 609" fill-opacity="0.94">%%%</text>
+<text y="167.8" x="615" fill-opacity="0.87">#</text>
+<text y="167.8" x="621" fill-opacity="0.81">*</text>
+<text y="167.8" x="627" fill-opacity="0.74">+</text>
+<text y="167.8" x="633" fill-opacity="0.61">-</text>
+<text y="177.8" x="27" fill-opacity="0.61">-</text>
+<text y="177.8" x="33 39 45" fill-opacity="0.94">%%%</text>
+<text y="177.8" x="51 57 63 69 75 81" fill-opacity="1.00">@@@@@@</text>
+<text y="177.8" x="87 93 99" fill-opacity="0.94">%%%</text>
+<text y="177.8" x="105" fill-opacity="1.00">@</text>
+<text y="177.8" x="111" fill-opacity="0.87">#</text>
+<text y="177.8" x="117 123" fill-opacity="0.81">**</text>
+<text y="177.8" x="129" fill-opacity="0.87">#</text>
+<text y="177.8" x="135 141" fill-opacity="0.94">%%</text>
+<text y="177.8" x="147" fill-opacity="0.87">#</text>
+<text y="177.8" x="153" fill-opacity="0.81">*</text>
+<text y="177.8" x="159 165 171 177" fill-opacity="0.87">####</text>
+<text y="177.8" x="183" fill-opacity="0.81">*</text>
+<text y="177.8" x="189" fill-opacity="0.74">+</text>
+<text y="177.8" x="195 201 207 213 219" fill-opacity="0.81">*****</text>
+<text y="177.8" x="225" fill-opacity="0.87">#</text>
+<text y="177.8" x="231 237" fill-opacity="0.81">**</text>
+<text y="177.8" x="243" fill-opacity="0.74">+</text>
+<text y="177.8" x="249" fill-opacity="0.81">*</text>
+<text y="177.8" x="255 261" fill-opacity="0.74">++</text>
+<text y="177.8" x="267 273" fill-opacity="0.68">==</text>
+<text y="177.8" x="279 285" fill-opacity="0.74">++</text>
+<text y="177.8" x="291" fill-opacity="0.68">=</text>
+<text y="177.8" x="297 303" fill-opacity="0.74">++</text>
+<text y="177.8" x="309" fill-opacity="0.68">=</text>
+<text y="177.8" x="315 321" fill-opacity="0.74">++</text>
+<text y="177.8" x="327" fill-opacity="0.81">*</text>
+<text y="177.8" x="333" fill-opacity="0.68">=</text>
+<text y="177.8" x="339 345" fill-opacity="0.61">--</text>
+<text y="177.8" x="351 357" fill-opacity="0.68">==</text>
+<text y="177.8" x="363 369" fill-opacity="0.61">--</text>
+<text y="177.8" x="375" fill-opacity="0.68">=</text>
+<text y="177.8" x="381" fill-opacity="0.81">*</text>
+<text y="177.8" x="387 393" fill-opacity="0.94">%%</text>
+<text y="177.8" x="399" fill-opacity="0.87">#</text>
+<text y="177.8" x="405 411 417 423 429" fill-opacity="0.81">*****</text>
+<text y="177.8" x="435 441 447 453 459" fill-opacity="0.74">+++++</text>
+<text y="177.8" x="465" fill-opacity="0.81">*</text>
+<text y="177.8" x="471 477 483" fill-opacity="0.74">+++</text>
+<text y="177.8" x="489" fill-opacity="0.68">=</text>
+<text y="177.8" x="495" fill-opacity="0.74">+</text>
+<text y="177.8" x="501" fill-opacity="0.68">=</text>
+<text y="177.8" x="507" fill-opacity="0.74">+</text>
+<text y="177.8" x="513" fill-opacity="0.68">=</text>
+<text y="177.8" x="519" fill-opacity="0.74">+</text>
+<text y="177.8" x="525" fill-opacity="0.94">%</text>
+<text y="177.8" x="531 537 543 549 555 561 567 573" fill-opacity="1.00">@@@@@@@@</text>
+<text y="177.8" x="579 585 591 597 603" fill-opacity="0.94">%%%%%</text>
+<text y="177.8" x="609 615 621" fill-opacity="0.87">###</text>
+<text y="177.8" x="627" fill-opacity="0.74">+</text>
+<text y="177.8" x="633" fill-opacity="0.68">=</text>
+<text y="177.8" x="639" fill-opacity="0.55">:</text>
+<text y="187.8" x="27 33" fill-opacity="0.87">##</text>
+<text y="187.8" x="39" fill-opacity="0.94">%</text>
+<text y="187.8" x="45" fill-opacity="1.00">@</text>
+<text y="187.8" x="51" fill-opacity="0.94">%</text>
+<text y="187.8" x="57 63" fill-opacity="1.00">@@</text>
+<text y="187.8" x="69 75" fill-opacity="0.94">%%</text>
+<text y="187.8" x="81" fill-opacity="1.00">@</text>
+<text y="187.8" x="87 93 99" fill-opacity="0.94">%%%</text>
+<text y="187.8" x="105" fill-opacity="0.87">#</text>
+<text y="187.8" x="111" fill-opacity="0.81">*</text>
+<text y="187.8" x="117 123 129" fill-opacity="0.87">###</text>
+<text y="187.8" x="135 141" fill-opacity="0.81">**</text>
+<text y="187.8" x="147 153 159" fill-opacity="0.87">###</text>
+<text y="187.8" x="165" fill-opacity="0.94">%</text>
+<text y="187.8" x="171 177 183 189 195" fill-opacity="0.87">#####</text>
+<text y="187.8" x="201" fill-opacity="0.81">*</text>
+<text y="187.8" x="207 213" fill-opacity="0.87">##</text>
+<text y="187.8" x="219 225" fill-opacity="0.81">**</text>
+<text y="187.8" x="231 237 243" fill-opacity="0.74">+++</text>
+<text y="187.8" x="249 255 261 267 273" fill-opacity="0.68">=====</text>
+<text y="187.8" x="279 285" fill-opacity="0.74">++</text>
+<text y="187.8" x="291 297 303 309 315" fill-opacity="0.81">*****</text>
+<text y="187.8" x="321" fill-opacity="0.74">+</text>
+<text y="187.8" x="327" fill-opacity="0.68">=</text>
+<text y="187.8" x="333 339" fill-opacity="0.61">--</text>
+<text y="187.8" x="345 351" fill-opacity="0.74">++</text>
+<text y="187.8" x="357" fill-opacity="0.68">=</text>
+<text y="187.8" x="363 369" fill-opacity="0.74">++</text>
+<text y="187.8" x="375 381" fill-opacity="0.87">##</text>
+<text y="187.8" x="387 393 399 405" fill-opacity="0.94">%%%%</text>
+<text y="187.8" x="411 417" fill-opacity="0.87">##</text>
+<text y="187.8" x="423" fill-opacity="0.81">*</text>
+<text y="187.8" x="429" fill-opacity="0.74">+</text>
+<text y="187.8" x="435 441" fill-opacity="0.68">==</text>
+<text y="187.8" x="447 453" fill-opacity="0.74">++</text>
+<text y="187.8" x="459" fill-opacity="0.81">*</text>
+<text y="187.8" x="465" fill-opacity="0.74">+</text>
+<text y="187.8" x="471 477" fill-opacity="0.81">**</text>
+<text y="187.8" x="483 489 495 501 507 513" fill-opacity="0.74">++++++</text>
+<text y="187.8" x="519" fill-opacity="0.87">#</text>
+<text y="187.8" x="525" fill-opacity="0.94">%</text>
+<text y="187.8" x="531 537 543 549 555 561 567" fill-opacity="1.00">@@@@@@@</text>
+<text y="187.8" x="573 579 585" fill-opacity="0.94">%%%</text>
+<text y="187.8" x="591 597" fill-opacity="0.87">##</text>
+<text y="187.8" x="603" fill-opacity="0.81">*</text>
+<text y="187.8" x="609" fill-opacity="0.87">#</text>
+<text y="187.8" x="615 621" fill-opacity="0.81">**</text>
+<text y="187.8" x="627" fill-opacity="0.74">+</text>
+<text y="187.8" x="633 639" fill-opacity="0.61">--</text>
+<text y="187.8" x="645" fill-opacity="0.48">.</text>
+<text y="197.8" x="21" fill-opacity="0.55">:</text>
+<text y="197.8" x="27" fill-opacity="0.81">*</text>
+<text y="197.8" x="33 39 45 51 57 63" fill-opacity="0.87">######</text>
+<text y="197.8" x="69 75 81 87" fill-opacity="0.94">%%%%</text>
+<text y="197.8" x="93" fill-opacity="0.87">#</text>
+<text y="197.8" x="99 105 111" fill-opacity="0.81">***</text>
+<text y="197.8" x="117 123" fill-opacity="0.87">##</text>
+<text y="197.8" x="129" fill-opacity="0.81">*</text>
+<text y="197.8" x="135" fill-opacity="0.87">#</text>
+<text y="197.8" x="141 147 153 159 165" fill-opacity="0.81">*****</text>
+<text y="197.8" x="171 177" fill-opacity="0.87">##</text>
+<text y="197.8" x="183" fill-opacity="0.94">%</text>
+<text y="197.8" x="189" fill-opacity="0.87">#</text>
+<text y="197.8" x="195" fill-opacity="0.81">*</text>
+<text y="197.8" x="201" fill-opacity="0.87">#</text>
+<text y="197.8" x="207 213" fill-opacity="0.81">**</text>
+<text y="197.8" x="219" fill-opacity="0.74">+</text>
+<text y="197.8" x="225" fill-opacity="0.81">*</text>
+<text y="197.8" x="231 237 243" fill-opacity="0.68">===</text>
+<text y="197.8" x="249 255" fill-opacity="0.74">++</text>
+<text y="197.8" x="261 267" fill-opacity="0.81">**</text>
+<text y="197.8" x="273 279" fill-opacity="0.87">##</text>
+<text y="197.8" x="285 291 297 303 309" fill-opacity="0.74">+++++</text>
+<text y="197.8" x="315 321" fill-opacity="0.61">--</text>
+<text y="197.8" x="327 333 339" fill-opacity="0.68">===</text>
+<text y="197.8" x="345 351" fill-opacity="0.74">++</text>
+<text y="197.8" x="357" fill-opacity="0.81">*</text>
+<text y="197.8" x="363 369" fill-opacity="0.87">##</text>
+<text y="197.8" x="375 381 387 393" fill-opacity="0.94">%%%%</text>
+<text y="197.8" x="399 405" fill-opacity="0.87">##</text>
+<text y="197.8" x="411 417 423 429" fill-opacity="0.81">****</text>
+<text y="197.8" x="435" fill-opacity="0.74">+</text>
+<text y="197.8" x="441 447 453 459" fill-opacity="0.81">****</text>
+<text y="197.8" x="465" fill-opacity="0.74">+</text>
+<text y="197.8" x="471" fill-opacity="0.81">*</text>
+<text y="197.8" x="477" fill-opacity="0.74">+</text>
+<text y="197.8" x="483 489 495" fill-opacity="0.68">===</text>
+<text y="197.8" x="501 507" fill-opacity="0.74">++</text>
+<text y="197.8" x="513" fill-opacity="0.81">*</text>
+<text y="197.8" x="519" fill-opacity="0.87">#</text>
+<text y="197.8" x="525" fill-opacity="0.94">%</text>
+<text y="197.8" x="531 537" fill-opacity="1.00">@@</text>
+<text y="197.8" x="543 549 555 561 567 573" fill-opacity="0.94">%%%%%%</text>
+<text y="197.8" x="579 585 591 597 603" fill-opacity="0.87">#####</text>
+<text y="197.8" x="609" fill-opacity="0.81">*</text>
+<text y="197.8" x="615" fill-opacity="0.74">+</text>
+<text y="197.8" x="621" fill-opacity="0.81">*</text>
+<text y="197.8" x="627" fill-opacity="0.68">=</text>
+<text y="197.8" x="633 639" fill-opacity="0.61">--</text>
+<text y="197.8" x="645" fill-opacity="0.55">:</text>
+<text y="207.8" x="21" fill-opacity="0.55">:</text>
+<text y="207.8" x="27 33 39 45" fill-opacity="0.81">****</text>
+<text y="207.8" x="51" fill-opacity="0.87">#</text>
+<text y="207.8" x="57" fill-opacity="0.81">*</text>
+<text y="207.8" x="63 69" fill-opacity="0.87">##</text>
+<text y="207.8" x="75" fill-opacity="0.81">*</text>
+<text y="207.8" x="81" fill-opacity="0.87">#</text>
+<text y="207.8" x="87 93 99 105 111 117" fill-opacity="0.81">******</text>
+<text y="207.8" x="123" fill-opacity="0.74">+</text>
+<text y="207.8" x="129" fill-opacity="0.81">*</text>
+<text y="207.8" x="135 141" fill-opacity="0.74">++</text>
+<text y="207.8" x="147 153 159" fill-opacity="0.81">***</text>
+<text y="207.8" x="165 171 177 183 189" fill-opacity="0.87">#####</text>
+<text y="207.8" x="195" fill-opacity="0.81">*</text>
+<text y="207.8" x="201 207 213" fill-opacity="0.87">###</text>
+<text y="207.8" x="219 225 231 237 243 249" fill-opacity="0.81">******</text>
+<text y="207.8" x="255 261" fill-opacity="0.74">++</text>
+<text y="207.8" x="267 273" fill-opacity="0.81">**</text>
+<text y="207.8" x="279 285 291" fill-opacity="0.74">+++</text>
+<text y="207.8" x="297 303 309" fill-opacity="0.68">===</text>
+<text y="207.8" x="315" fill-opacity="0.61">-</text>
+<text y="207.8" x="321 327" fill-opacity="0.68">==</text>
+<text y="207.8" x="333" fill-opacity="0.74">+</text>
+<text y="207.8" x="339 345" fill-opacity="0.81">**</text>
+<text y="207.8" x="351 357 363" fill-opacity="0.87">###</text>
+<text y="207.8" x="369" fill-opacity="0.94">%</text>
+<text y="207.8" x="375" fill-opacity="1.00">@</text>
+<text y="207.8" x="381 387" fill-opacity="0.94">%%</text>
+<text y="207.8" x="393" fill-opacity="0.87">#</text>
+<text y="207.8" x="399" fill-opacity="0.81">*</text>
+<text y="207.8" x="405 411" fill-opacity="0.87">##</text>
+<text y="207.8" x="417 423 429 435 441 447 453" fill-opacity="0.81">*******</text>
+<text y="207.8" x="459" fill-opacity="0.74">+</text>
+<text y="207.8" x="465 471" fill-opacity="0.68">==</text>
+<text y="207.8" x="477" fill-opacity="0.74">+</text>
+<text y="207.8" x="483" fill-opacity="0.81">*</text>
+<text y="207.8" x="489" fill-opacity="0.87">#</text>
+<text y="207.8" x="495 501 507" fill-opacity="0.81">***</text>
+<text y="207.8" x="513 519 525" fill-opacity="0.87">###</text>
+<text y="207.8" x="531 537 543 549 555" fill-opacity="0.94">%%%%%</text>
+<text y="207.8" x="561 567" fill-opacity="0.87">##</text>
+<text y="207.8" x="573 579 585 591 597" fill-opacity="0.81">*****</text>
+<text y="207.8" x="603 609 615 621" fill-opacity="0.74">++++</text>
+<text y="207.8" x="627" fill-opacity="0.68">=</text>
+<text y="207.8" x="633 639" fill-opacity="0.61">--</text>
+<text y="207.8" x="645" fill-opacity="0.55">:</text>
+<text y="217.8" x="27 33 39" fill-opacity="0.74">+++</text>
+<text y="217.8" x="45 51 57" fill-opacity="0.81">***</text>
+<text y="217.8" x="63 69 75 81 87" fill-opacity="0.74">+++++</text>
+<text y="217.8" x="93" fill-opacity="0.68">=</text>
+<text y="217.8" x="99 105" fill-opacity="0.74">++</text>
+<text y="217.8" x="111 117 123" fill-opacity="0.68">===</text>
+<text y="217.8" x="129" fill-opacity="0.74">+</text>
+<text y="217.8" x="135 141" fill-opacity="0.68">==</text>
+<text y="217.8" x="147" fill-opacity="0.74">+</text>
+<text y="217.8" x="153 159 165" fill-opacity="0.81">***</text>
+<text y="217.8" x="171 177" fill-opacity="0.87">##</text>
+<text y="217.8" x="183" fill-opacity="0.94">%</text>
+<text y="217.8" x="189 195" fill-opacity="0.87">##</text>
+<text y="217.8" x="201 207 213 219" fill-opacity="0.81">****</text>
+<text y="217.8" x="225 231" fill-opacity="0.74">++</text>
+<text y="217.8" x="237 243" fill-opacity="0.81">**</text>
+<text y="217.8" x="249" fill-opacity="0.74">+</text>
+<text y="217.8" x="255 261 267 273 279 285 291 297" fill-opacity="0.81">********</text>
+<text y="217.8" x="303 309 315" fill-opacity="0.74">+++</text>
+<text y="217.8" x="321 327 333 339 345 351" fill-opacity="0.81">******</text>
+<text y="217.8" x="357" fill-opacity="0.87">#</text>
+<text y="217.8" x="363 369 375" fill-opacity="0.94">%%%</text>
+<text y="217.8" x="381 387 393 399" fill-opacity="0.87">####</text>
+<text y="217.8" x="405 411" fill-opacity="0.81">**</text>
+<text y="217.8" x="417" fill-opacity="0.74">+</text>
+<text y="217.8" x="423 429" fill-opacity="0.81">**</text>
+<text y="217.8" x="435 441 447 453 459" fill-opacity="0.74">+++++</text>
+<text y="217.8" x="465 471 477" fill-opacity="0.81">***</text>
+<text y="217.8" x="483 489" fill-opacity="0.87">##</text>
+<text y="217.8" x="495" fill-opacity="0.81">*</text>
+<text y="217.8" x="501" fill-opacity="0.74">+</text>
+<text y="217.8" x="507" fill-opacity="0.81">*</text>
+<text y="217.8" x="513" fill-opacity="0.87">#</text>
+<text y="217.8" x="519 525" fill-opacity="0.81">**</text>
+<text y="217.8" x="531 537 543 549 555" fill-opacity="0.87">#####</text>
+<text y="217.8" x="561" fill-opacity="0.81">*</text>
+<text y="217.8" x="567 573" fill-opacity="0.74">++</text>
+<text y="217.8" x="579 585 591 597" fill-opacity="0.81">****</text>
+<text y="217.8" x="603" fill-opacity="0.74">+</text>
+<text y="217.8" x="609 615" fill-opacity="0.68">==</text>
+<text y="217.8" x="621" fill-opacity="0.61">-</text>
+<text y="217.8" x="627 633 639 645" fill-opacity="0.55">::::</text>
+<text y="227.8" x="27" fill-opacity="0.61">-</text>
+<text y="227.8" x="33 39 45 51 57 63 69" fill-opacity="0.74">+++++++</text>
+<text y="227.8" x="75 81 87 93" fill-opacity="0.68">====</text>
+<text y="227.8" x="99 105 111" fill-opacity="0.61">---</text>
+<text y="227.8" x="117" fill-opacity="0.55">:</text>
+<text y="227.8" x="123 129 135" fill-opacity="0.61">---</text>
+<text y="227.8" x="141" fill-opacity="0.68">=</text>
+<text y="227.8" x="147" fill-opacity="0.74">+</text>
+<text y="227.8" x="153 159 165 171" fill-opacity="0.81">****</text>
+<text y="227.8" x="177" fill-opacity="0.87">#</text>
+<text y="227.8" x="183 189 195" fill-opacity="0.81">***</text>
+<text y="227.8" x="201" fill-opacity="0.74">+</text>
+<text y="227.8" x="207 213" fill-opacity="0.81">**</text>
+<text y="227.8" x="219 225" fill-opacity="0.74">++</text>
+<text y="227.8" x="231 237 243 249 255 261 267 273" fill-opacity="0.81">********</text>
+<text y="227.8" x="279" fill-opacity="0.87">#</text>
+<text y="227.8" x="285 291" fill-opacity="0.81">**</text>
+<text y="227.8" x="297 303 309 315" fill-opacity="0.74">++++</text>
+<text y="227.8" x="321 327 333" fill-opacity="0.81">***</text>
+<text y="227.8" x="339" fill-opacity="0.74">+</text>
+<text y="227.8" x="345 351" fill-opacity="0.81">**</text>
+<text y="227.8" x="357 363" fill-opacity="0.87">##</text>
+<text y="227.8" x="369 375" fill-opacity="0.81">**</text>
+<text y="227.8" x="381 387" fill-opacity="0.87">##</text>
+<text y="227.8" x="393" fill-opacity="0.81">*</text>
+<text y="227.8" x="399 405 411 417" fill-opacity="0.74">++++</text>
+<text y="227.8" x="423 429 435" fill-opacity="0.68">===</text>
+<text y="227.8" x="441" fill-opacity="0.74">+</text>
+<text y="227.8" x="447 453 459" fill-opacity="0.81">***</text>
+<text y="227.8" x="465" fill-opacity="0.74">+</text>
+<text y="227.8" x="471" fill-opacity="0.81">*</text>
+<text y="227.8" x="477 483" fill-opacity="0.87">##</text>
+<text y="227.8" x="489 495 501 507 513" fill-opacity="0.81">*****</text>
+<text y="227.8" x="519" fill-opacity="0.74">+</text>
+<text y="227.8" x="525 531 537 543" fill-opacity="0.81">****</text>
+<text y="227.8" x="549 555" fill-opacity="0.74">++</text>
+<text y="227.8" x="561 567 573" fill-opacity="0.68">===</text>
+<text y="227.8" x="579 585 591" fill-opacity="0.74">+++</text>
+<text y="227.8" x="597 603 609" fill-opacity="0.68">===</text>
+<text y="227.8" x="615 621" fill-opacity="0.61">--</text>
+<text y="227.8" x="627 633 639" fill-opacity="0.55">:::</text>
+<text y="227.8" x="645" fill-opacity="0.48">.</text>
+<text y="237.8" x="33" fill-opacity="0.61">-</text>
+<text y="237.8" x="39 45 51 57 63 69 75" fill-opacity="0.68">=======</text>
+<text y="237.8" x="81 87" fill-opacity="0.74">++</text>
+<text y="237.8" x="93 99 105 111 117 123" fill-opacity="0.61">------</text>
+<text y="237.8" x="129 135" fill-opacity="0.55">::</text>
+<text y="237.8" x="141" fill-opacity="0.61">-</text>
+<text y="237.8" x="147" fill-opacity="0.68">=</text>
+<text y="237.8" x="153 159 165 171 177 183 189 195 201" fill-opacity="0.74">+++++++++</text>
+<text y="237.8" x="207" fill-opacity="0.81">*</text>
+<text y="237.8" x="213 219" fill-opacity="0.74">++</text>
+<text y="237.8" x="225 231 237" fill-opacity="0.68">===</text>
+<text y="237.8" x="243" fill-opacity="0.74">+</text>
+<text y="237.8" x="249 255 261 267 273" fill-opacity="0.81">*****</text>
+<text y="237.8" x="279 285 291 297 303" fill-opacity="0.74">+++++</text>
+<text y="237.8" x="309" fill-opacity="0.68">=</text>
+<text y="237.8" x="315 321 327" fill-opacity="0.74">+++</text>
+<text y="237.8" x="333 339" fill-opacity="0.68">==</text>
+<text y="237.8" x="345 351" fill-opacity="0.81">**</text>
+<text y="237.8" x="357" fill-opacity="0.87">#</text>
+<text y="237.8" x="363 369 375 381" fill-opacity="0.81">****</text>
+<text y="237.8" x="387 393 399" fill-opacity="0.74">+++</text>
+<text y="237.8" x="405 411 417 423" fill-opacity="0.68">====</text>
+<text y="237.8" x="429 435" fill-opacity="0.61">--</text>
+<text y="237.8" x="441 447 453" fill-opacity="0.68">===</text>
+<text y="237.8" x="459" fill-opacity="0.74">+</text>
+<text y="237.8" x="465 471" fill-opacity="0.81">**</text>
+<text y="237.8" x="477 483 489 495 501" fill-opacity="0.74">+++++</text>
+<text y="237.8" x="507 513 519 525" fill-opacity="0.68">====</text>
+<text y="237.8" x="531" fill-opacity="0.74">+</text>
+<text y="237.8" x="537 543 549" fill-opacity="0.68">===</text>
+<text y="237.8" x="555" fill-opacity="0.61">-</text>
+<text y="237.8" x="561 567" fill-opacity="0.68">==</text>
+<text y="237.8" x="573 579 585 591" fill-opacity="0.61">----</text>
+<text y="237.8" x="597" fill-opacity="0.68">=</text>
+<text y="237.8" x="603 609" fill-opacity="0.61">--</text>
+<text y="237.8" x="615 621 627 633 639" fill-opacity="0.55">:::::</text>
+<text y="247.8" x="39 45" fill-opacity="0.55">::</text>
+<text y="247.8" x="51 57 63" fill-opacity="0.61">---</text>
+<text y="247.8" x="69 75 81" fill-opacity="0.68">===</text>
+<text y="247.8" x="87" fill-opacity="0.61">-</text>
+<text y="247.8" x="93 99 105 111 117 123 129 135 141 147" fill-opacity="0.55">::::::::::</text>
+<text y="247.8" x="153" fill-opacity="0.61">-</text>
+<text y="247.8" x="159 165 171 177" fill-opacity="0.74">++++</text>
+<text y="247.8" x="183 189 195 201 207" fill-opacity="0.68">=====</text>
+<text y="247.8" x="213 219 225 231" fill-opacity="0.61">----</text>
+<text y="247.8" x="237" fill-opacity="0.68">=</text>
+<text y="247.8" x="243 249 255 261 267 273 279 285 291 297 303 309" fill-opacity="0.74">++++++++++++</text>
+<text y="247.8" x="315 321" fill-opacity="0.68">==</text>
+<text y="247.8" x="327 333" fill-opacity="0.61">--</text>
+<text y="247.8" x="339 345" fill-opacity="0.68">==</text>
+<text y="247.8" x="351 357 363 369 375" fill-opacity="0.74">+++++</text>
+<text y="247.8" x="381 387 393 399" fill-opacity="0.68">====</text>
+<text y="247.8" x="405" fill-opacity="0.61">-</text>
+<text y="247.8" x="411 417 423" fill-opacity="0.68">===</text>
+<text y="247.8" x="429 435" fill-opacity="0.61">--</text>
+<text y="247.8" x="441" fill-opacity="0.55">:</text>
+<text y="247.8" x="447" fill-opacity="0.61">-</text>
+<text y="247.8" x="453 459 465" fill-opacity="0.68">===</text>
+<text y="247.8" x="471" fill-opacity="0.74">+</text>
+<text y="247.8" x="477 483" fill-opacity="0.81">**</text>
+<text y="247.8" x="489 495" fill-opacity="0.74">++</text>
+<text y="247.8" x="501" fill-opacity="0.68">=</text>
+<text y="247.8" x="507 513 519 525" fill-opacity="0.61">----</text>
+<text y="247.8" x="531 537 543 549 555 561" fill-opacity="0.55">::::::</text>
+<text y="247.8" x="567 573 579 585 591" fill-opacity="0.61">-----</text>
+<text y="247.8" x="597 603 609 615 621 627 633" fill-opacity="0.55">:::::::</text>
+<text y="257.8" x="45" fill-opacity="0.48">.</text>
+<text y="257.8" x="51 57 63 69 75 81 87 93 99 105 111 117 123 129 135" fill-opacity="0.55">:::::::::::::::</text>
+<text y="257.8" x="141" fill-opacity="0.48">.</text>
+<text y="257.8" x="147" fill-opacity="0.55">:</text>
+<text y="257.8" x="153" fill-opacity="0.61">-</text>
+<text y="257.8" x="159 165 171" fill-opacity="0.68">===</text>
+<text y="257.8" x="177 183 189 195 201 207" fill-opacity="0.61">------</text>
+<text y="257.8" x="213 219" fill-opacity="0.55">::</text>
+<text y="257.8" x="225 231 237 243" fill-opacity="0.61">----</text>
+<text y="257.8" x="249" fill-opacity="0.68">=</text>
+<text y="257.8" x="255 261" fill-opacity="0.61">--</text>
+<text y="257.8" x="267 273" fill-opacity="0.68">==</text>
+<text y="257.8" x="279 285 291 297 303 309 315" fill-opacity="0.61">-------</text>
+<text y="257.8" x="321 327 333" fill-opacity="0.55">:::</text>
+<text y="257.8" x="339 345 351 357" fill-opacity="0.61">----</text>
+<text y="257.8" x="363 369" fill-opacity="0.68">==</text>
+<text y="257.8" x="375 381" fill-opacity="0.61">--</text>
+<text y="257.8" x="387" fill-opacity="0.68">=</text>
+<text y="257.8" x="393 399" fill-opacity="0.61">--</text>
+<text y="257.8" x="405" fill-opacity="0.55">:</text>
+<text y="257.8" x="411 417" fill-opacity="0.61">--</text>
+<text y="257.8" x="423 429 435 441" fill-opacity="0.55">::::</text>
+<text y="257.8" x="447 453" fill-opacity="0.61">--</text>
+<text y="257.8" x="459 465 471" fill-opacity="0.68">===</text>
+<text y="257.8" x="477 483 489 495 501 507" fill-opacity="0.61">------</text>
+<text y="257.8" x="513 519 525 531 537 543 549 555 561 567 573 579 585 591 597 603 609 615 621" fill-opacity="0.55">:::::::::::::::::::</text>
+<text y="257.8" x="627" fill-opacity="0.48">.</text>
+<text y="267.8" x="57 63 69 75 81 87 93 99 105 111 117 123 129" fill-opacity="0.48">.............</text>
+<text y="267.8" x="147 153" fill-opacity="0.48">..</text>
+<text y="267.8" x="159 165 171 177 183" fill-opacity="0.55">:::::</text>
+<text y="267.8" x="189 195 201 207 213" fill-opacity="0.48">.....</text>
+<text y="267.8" x="219 225 231" fill-opacity="0.55">:::</text>
+<text y="267.8" x="237 243" fill-opacity="0.48">..</text>
+<text y="267.8" x="249 255 261 267 273 279 285 291 297 303 309 315" fill-opacity="0.55">::::::::::::</text>
+<text y="267.8" x="321 327 333" fill-opacity="0.48">...</text>
+<text y="267.8" x="339" fill-opacity="0.55">:</text>
+<text y="267.8" x="345 351 357 363 369" fill-opacity="0.48">.....</text>
+<text y="267.8" x="375 381" fill-opacity="0.55">::</text>
+<text y="267.8" x="387" fill-opacity="0.48">.</text>
+<text y="267.8" x="393 399 405 411" fill-opacity="0.55">::::</text>
+<text y="267.8" x="417 423 429 435 441 447" fill-opacity="0.48">......</text>
+<text y="267.8" x="453 459" fill-opacity="0.55">::</text>
+<text y="267.8" x="465 471 477 483 489 495" fill-opacity="0.48">......</text>
+<text y="267.8" x="501 507" fill-opacity="0.55">::</text>
+<text y="267.8" x="513 519 525 531 537 543 549 555 561 567 573 579 585 591 597 603 609 615" fill-opacity="0.48">..................</text>
+</g></svg>
