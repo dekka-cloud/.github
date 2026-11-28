@@ -1,7 +1,7 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dekka-cloud/.github/profile/shaded-cloud/profile/cloud-dark.svg">
-    <img alt="A cloud drawn in text characters" src="https://raw.githubusercontent.com/dekka-cloud/.github/profile/shaded-cloud/profile/cloud-light.svg" width="560">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dekka-cloud/.github/main/profile/cloud-dark.svg">
+    <img alt="A cloud drawn in text characters" src="https://raw.githubusercontent.com/dekka-cloud/.github/main/profile/cloud-light.svg" width="560">
   </picture>
 </p>
 
